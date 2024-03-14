@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 5px;
+}
